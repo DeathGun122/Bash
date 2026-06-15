@@ -1,8 +1,14 @@
 ## Description:
-Shell scripting using .bash and .sh covered till advanced concepts. Shell scripts made for automation, file handing and DevOps needs.
+Shell scripting and Linux commands covered using .bash and .sh till advanced concepts. Shell scripts made for automation, file handing and DevOps needs.
+
+### Projects:
+- Monitoring Free RAM Space
+- Monitoring Free Disk Space
+- Archive old / large files
+- User Management
 
 ### Tech Stack:
 VS Code, Extensions, .bash, .sh
 
 ### Duration:
-13.06.2026 - Present
+Bash Theory + Projects : 13.06.2026 - 15.06.2026

@@ -1,0 +1,13 @@
+2022
+2023
+2025
+Bash
+Readme.Md
+bash_var.sh
+dice.sh
+file_create.sh
+file_exist.sh
+files.txt
+redirection.sh
+root_user.sh
+Mon Jun 15 05:01:57 UTC 2026
