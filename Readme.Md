@@ -12,3 +12,4 @@ VS Code, Extensions, .bash, .sh
 
 ### Duration:
 Bash Theory + Projects : 13.06.2026 - 15.06.2026
+Problem Questions : 18.06.2026 - Present
